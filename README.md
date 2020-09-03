@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**devejs/devejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eunjee Shin, thanks for visiting my github.
+I've been studying Electronical engineering, Computer engineering
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+  - iOS, Swift
+  - Python
+- 📚 What I can do
+> Python, java, Swift
+> Arduino, Raspberry Pi
+> iOS, Android
+- 🧐 Interested in
+> Mobile(Android, iOS)
+> Embedded System
+<!--
+- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: ssej0221@gmail.com | blog(devejs.github.io)
+- ✍️ My Blog: devejs.github.io
