@@ -1,17 +1,16 @@
 ### Hi there 👋
 
 I'm Eunjee Shin, thanks for visiting my github.
-I've been studying Electronical engineering, Computer engineering
+I've been studying Electronical engineering, Computer engineering.
 
 - 🌱 I’m currently learning ...
-  - iOS, Swift
-  - Python
+> iOS, Swift, Python
 - 📚 What I can do
-> Python, java, Swift
-> Arduino, Raspberry Pi
+> Python, java, Swift <br>
+> Arduino, Raspberry Pi <br>
 > iOS, Android
 - 🧐 Interested in
-> Mobile(Android, iOS)
+> Mobile(Android, iOS) <br> 
 > Embedded System
 <!--
 - 🔭 I’m currently working on ...
