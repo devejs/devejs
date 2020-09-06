@@ -12,6 +12,7 @@ I've been studying Electronical engineering, Computer engineering.
 - 🧐 Interested in
 > Mobile(Android, iOS) <br> 
 > Embedded System
+> Server
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -21,4 +22,4 @@ I've been studying Electronical engineering, Computer engineering.
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: ssej0221@gmail.com | blog(devejs.github.io)
-- ✍️ My Blog: devejs.github.io
+- ✍️ My Blog: [Here](https://devejs.github.io)
