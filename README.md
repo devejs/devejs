@@ -3,16 +3,25 @@
 I'm Eunjee Shin, thanks for visiting my github.
 I've been studying Electronical engineering, Computer engineering.
 
-- 🌱 I’m currently learning ...
-> iOS, Swift, Python
-- 📚 What I can do
+- 💻 I’m currently working ...
+> Embedded SW Engineer(Security Camera)
+
+- 📚 What I can do / Still Learning
+> C/C++  <br>
+> Python <br>
+> Linux <br>
+> OOP Programming <br>
+
+<!--
 > Python, java, Swift <br>
 > Arduino, Raspberry Pi <br>
 > iOS, Android
+-->
 - 🧐 Interested in
 > Mobile(Android, iOS) <br> 
-> Embedded System
-> Server
+> Embedded System <br>
+> Server <br>
+> Computer Vision <br>
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
